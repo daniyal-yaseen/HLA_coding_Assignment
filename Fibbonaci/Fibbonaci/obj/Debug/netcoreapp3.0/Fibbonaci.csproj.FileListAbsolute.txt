@@ -1,0 +1,10 @@
+C:\Users\my\source\repos\Fibbonaci\Fibbonaci\bin\Debug\netcoreapp3.0\Fibbonaci.exe
+C:\Users\my\source\repos\Fibbonaci\Fibbonaci\bin\Debug\netcoreapp3.0\Fibbonaci.deps.json
+C:\Users\my\source\repos\Fibbonaci\Fibbonaci\bin\Debug\netcoreapp3.0\Fibbonaci.runtimeconfig.json
+C:\Users\my\source\repos\Fibbonaci\Fibbonaci\bin\Debug\netcoreapp3.0\Fibbonaci.runtimeconfig.dev.json
+C:\Users\my\source\repos\Fibbonaci\Fibbonaci\bin\Debug\netcoreapp3.0\Fibbonaci.dll
+C:\Users\my\source\repos\Fibbonaci\Fibbonaci\bin\Debug\netcoreapp3.0\Fibbonaci.pdb
+C:\Users\my\source\repos\Fibbonaci\Fibbonaci\obj\Debug\netcoreapp3.0\Fibbonaci.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\Fibbonaci\Fibbonaci\obj\Debug\netcoreapp3.0\Fibbonaci.AssemblyInfo.cs
+C:\Users\my\source\repos\Fibbonaci\Fibbonaci\obj\Debug\netcoreapp3.0\Fibbonaci.dll
+C:\Users\my\source\repos\Fibbonaci\Fibbonaci\obj\Debug\netcoreapp3.0\Fibbonaci.pdb

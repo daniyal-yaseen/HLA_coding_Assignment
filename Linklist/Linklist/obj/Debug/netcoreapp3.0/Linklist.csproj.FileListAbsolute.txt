@@ -1,0 +1,11 @@
+C:\Users\my\source\repos\Linklist\Linklist\bin\Debug\netcoreapp3.0\Linklist.exe
+C:\Users\my\source\repos\Linklist\Linklist\bin\Debug\netcoreapp3.0\Linklist.deps.json
+C:\Users\my\source\repos\Linklist\Linklist\bin\Debug\netcoreapp3.0\Linklist.runtimeconfig.json
+C:\Users\my\source\repos\Linklist\Linklist\bin\Debug\netcoreapp3.0\Linklist.runtimeconfig.dev.json
+C:\Users\my\source\repos\Linklist\Linklist\bin\Debug\netcoreapp3.0\Linklist.dll
+C:\Users\my\source\repos\Linklist\Linklist\bin\Debug\netcoreapp3.0\Linklist.pdb
+C:\Users\my\source\repos\Linklist\Linklist\obj\Debug\netcoreapp3.0\Linklist.csprojAssemblyReference.cache
+C:\Users\my\source\repos\Linklist\Linklist\obj\Debug\netcoreapp3.0\Linklist.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\Linklist\Linklist\obj\Debug\netcoreapp3.0\Linklist.AssemblyInfo.cs
+C:\Users\my\source\repos\Linklist\Linklist\obj\Debug\netcoreapp3.0\Linklist.dll
+C:\Users\my\source\repos\Linklist\Linklist\obj\Debug\netcoreapp3.0\Linklist.pdb

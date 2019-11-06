@@ -1,0 +1,11 @@
+C:\Users\my\source\repos\Quiz_Q\Quiz_Q\obj\Debug\netcoreapp3.0\Quiz_Q.csprojAssemblyReference.cache
+C:\Users\my\source\repos\Quiz_Q\Quiz_Q\obj\Debug\netcoreapp3.0\Quiz_Q.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\Quiz_Q\Quiz_Q\obj\Debug\netcoreapp3.0\Quiz_Q.AssemblyInfo.cs
+C:\Users\my\source\repos\Quiz_Q\Quiz_Q\bin\Debug\netcoreapp3.0\Quiz_Q.exe
+C:\Users\my\source\repos\Quiz_Q\Quiz_Q\bin\Debug\netcoreapp3.0\Quiz_Q.deps.json
+C:\Users\my\source\repos\Quiz_Q\Quiz_Q\bin\Debug\netcoreapp3.0\Quiz_Q.runtimeconfig.json
+C:\Users\my\source\repos\Quiz_Q\Quiz_Q\bin\Debug\netcoreapp3.0\Quiz_Q.runtimeconfig.dev.json
+C:\Users\my\source\repos\Quiz_Q\Quiz_Q\bin\Debug\netcoreapp3.0\Quiz_Q.dll
+C:\Users\my\source\repos\Quiz_Q\Quiz_Q\bin\Debug\netcoreapp3.0\Quiz_Q.pdb
+C:\Users\my\source\repos\Quiz_Q\Quiz_Q\obj\Debug\netcoreapp3.0\Quiz_Q.dll
+C:\Users\my\source\repos\Quiz_Q\Quiz_Q\obj\Debug\netcoreapp3.0\Quiz_Q.pdb
